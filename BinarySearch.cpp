@@ -94,7 +94,9 @@ void binarySearch()
             }
 
             if (x < element[mid])
-            
+            {
+                high = mid - 1;
+            }
         }
     }
 }
