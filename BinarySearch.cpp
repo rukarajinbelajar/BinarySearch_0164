@@ -77,6 +77,7 @@ void binarySearch()
         cout << "   Pencarian Binary Search         \n";
         cout << "===================================\n";
 
-        
+        cout << "Masukkan elemen yang ingin di cari : ";
+        cin >> x;
     }
 }
