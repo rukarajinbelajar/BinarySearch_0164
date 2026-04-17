@@ -79,5 +79,8 @@ void binarySearch()
 
         cout << "Masukkan elemen yang ingin di cari : ";
         cin >> x;
+
+        int low = 0;
+        int high = nPanjang - 1;
     }
 }
