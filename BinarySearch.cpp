@@ -85,7 +85,9 @@ void binarySearch()
 
         do
         {
-            int mid = (low + high)/2
+            int mid = (low + high)/2;
+
+            if (elemen [mid] == x)
         }
     }
 }
