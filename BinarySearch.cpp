@@ -70,5 +70,5 @@ void display()
 
 void binarySearch()
 {
-    
+    char ulang;
 }
