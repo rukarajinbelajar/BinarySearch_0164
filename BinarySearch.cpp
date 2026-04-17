@@ -61,5 +61,8 @@ void display()
     {
         cout << element[j];
         if (j < nPanjang - 1)
+        {
+            cout << " -> ";
+        }
     }
 }
