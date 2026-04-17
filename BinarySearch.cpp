@@ -40,7 +40,7 @@ void bubbleSortArray()
     {
         for (int j = 0; j <= nPanjang - 1 - pass; j++)
         {
-            /* code */
+            if (element[j] > element[j + 1])
         }
         
     }
