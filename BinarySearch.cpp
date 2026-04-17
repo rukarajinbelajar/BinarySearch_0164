@@ -21,7 +21,6 @@ void input()
             cout << "\n[!] Jumlah elemen tidak boleh lebih dari 10.Silahkan coba lagi.\n";
         }
     }
-}
 
 cout << "\n====================================\n";
 cout << "       Masukkan Elemen Array          \n";
@@ -35,3 +34,7 @@ for (int i = 0; i < nPanjang; i++)
 }
 
 void bubbleSortArray()
+{
+    int pass = 1;
+    do
+}
