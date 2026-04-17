@@ -102,6 +102,10 @@ void binarySearch()
             {
                 low = mid + 1;
             }
-        }
+
+        } while (low <= high);
+
+        if (low > high)
+        
     }
 }
